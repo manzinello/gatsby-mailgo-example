@@ -6490,12 +6490,12 @@ gatsby-page-utils@^0.2.28:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-mailgo@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mailgo/-/gatsby-plugin-mailgo-0.10.0.tgz#9ddab08e46045ab250491e15fde57278efcd107b"
-  integrity sha512-6XsEt04pSe+yaAqSQSQnKstcCi6CIERnmncAOXfJaf3rNhKyw+WEMN14MissCiMxTb2IPc8bEMAYYlyhqYAxkw==
+gatsby-plugin-mailgo@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mailgo/-/gatsby-plugin-mailgo-0.10.1.tgz#4ce9f9864df6518d664875d2188956d5faa5f0f3"
+  integrity sha512-Wobib1J+CxOaqE8Sxwjdcz6IncApItbthcdnf9/snuZRJ4KYk9nyZjKks/lkFlJFEk91eRKNQ2tC9KYHbdKDbA==
   dependencies:
-    mailgo "0.10.0"
+    mailgo "0.10.1"
 
 gatsby-plugin-manifest@^2.4.34:
   version "2.4.34"
@@ -9166,10 +9166,10 @@ magic-string@^0.25.3:
   dependencies:
     sourcemap-codec "^1.4.4"
 
-mailgo@0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/mailgo/-/mailgo-0.10.0.tgz#02a9f41ddc72e7e7494275cbaaf9c9422f178ab6"
-  integrity sha512-qQlvioLg1xbS01vHFEs5F/Q5oaxAZw34He0ECJirwp+G5H8HOn6PwuvjTpdMpGHJM1D2MkB8gH93TL19FYXoHg==
+mailgo@0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/mailgo/-/mailgo-0.10.1.tgz#d27f5221784113534e6edc5a982a2d0801c7eb60"
+  integrity sha512-yw8kASCENdp4a0ZPfu1dAj4OrJGJtQLpWrgh/be8tuHeH0V4rW9tlwSx04H+8TjWvqtPdGUaNTWnM/iAn9PdUA==
 
 make-dir@^1.0.0, make-dir@^1.2.0:
   version "1.3.0"
