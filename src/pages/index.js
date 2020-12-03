@@ -12,7 +12,12 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <br />
-    <a href="mailto:matteo@manzinello.dev">email</a>
+    <p>
+      <a href="mailto:matteo@manzinello.dev">email</a>
+    </p>
+    <p>
+      <a href="tel:123456789">tel</a>
+    </p>
     <br />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
