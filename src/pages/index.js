@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <br />
     <p>
-      <a href="mailto:matteo@manzinello.dev">email</a>
+      <a href="mailto:info@mailgo.dev">email</a>
     </p>
     <p>
       <a href="tel:123456789">tel</a>
