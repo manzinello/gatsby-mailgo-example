@@ -2,7 +2,7 @@
   "name": "gatsby-starter-default-mailgo",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby and mailgo",
-  "version": "0.1.0",
+  "version": "0.12.2",
   "author": "Matteo Manzinello <matteo@manzinello.dev>",
   "dependencies": {
     "gatsby": "^3.8.0",
